@@ -11,7 +11,7 @@ IT Project Coordinator / Business Analyst
 
 ## Tools Used
 - Excel
-- Jira (or similar tool)
+- Jira
 - Email / Communication tools
 
 ## Process
